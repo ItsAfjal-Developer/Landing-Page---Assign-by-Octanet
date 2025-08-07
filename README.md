@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-Below is a Preview of **Landing Page - Quick Code Study**, Showcasing the Layout and Styling implemented Using pure HTML , CSS & Javascript. 
+Below is a Preview of **Landing Page - Quick Code Study**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 <img src="Screenshot.png" alt="Landing Page - Quick Code Study Preview" width="100%" />
