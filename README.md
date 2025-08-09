@@ -1,29 +1,30 @@
-# Landing Page - Quick Code Study – Learn BCA & MCA
-- Quick Code Study is a Sleek and Modern educational Landing Page. <br/>
+# **Landing Page - Quick Code Study – Learn BCA & MCA**
+
+- Quick Code Study is a Sleek and Modern Educational Landing Page.
 - The Site is built using fundamental Web Technologies, Ensuring a Fast and Lightweight Experience for Visitors & 
   this Website is a Single-Page Application that provides a Professional Overview of my Work and a Clear way for Potential Employers or Collaborators to Get in touch.
 
 ## Features
 
-- Crisp Tagline: “Master BCA & MCA Concepts with Ease”
+- **Crisp Tagline** : “Master BCA & MCA Concepts with Ease”
 
-- Stylish visual elements with educational tone and professional layout
+- Stylish Visual Elements with Educational Tone and Professional Layout
 
-- Navigation bar with links to
+- Navigation bar with Links to
 
-- Contact Us button with outlined styling
+- Contact Us button with Outlined Styling
 
-- Emphasis on typography with serif fonts and underlined hero text
+- Emphasis on typography with Serif fonts and Underlined Hero Text
 
 ## Tech Stack
 
-- HTML5	Page structure
+- **HTML5**
  
-- CSS3	Styling and responsiveness
- 
-- Google Fonts Typography enhancements
+- **CSS3**
 
-- JavaScript (optional) Interactions
+- **JavaScript** (optional) Interactions
+ 
+- **Google Fonts Typography Enhancements**
 
 ## Screenshots
 
